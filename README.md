@@ -50,8 +50,8 @@
 ## What is Bankist project?
 
 Bankist is a website hosted on Netlify. While I was coding the Bankist project, I practice usage of Observer API,
-lazy loading while fetching images, DOMContentLoaded event and above features. You can try by clicking <strong><a target="_blank"  href="https://bankist-gldn.netlify.app/">Bankist</a>
-</strong>.
+lazy loading while fetching images, DOMContentLoaded event and above features. You can try by clicking <strong>[Bankist ](https://bankist-gldn.netlify.app/){:target="\_blank"}
+</strong>
 
 #### Technologies Used:
 
