@@ -11,7 +11,7 @@
 > - _There is a special node type called EventTarget which is a parent of both the node type and window node type has addEventListener() method and all nodes type inherits this method ,_
 >
 >   <br/> 
->   <img src="../ReadME__img/DOM.png">
+>   <img src="./ReadME__img/DOM.png">
 >
 >   <br/>
 >
@@ -40,7 +40,38 @@
 > - _When we define the script tag with defer attribute, scripts are fetched asynchronously and executed after the HTML is completely parsed. DOMContentLoaded event fires after defer script is executed. Scripts are executed in order. This is the best solution when order matters! ,_
 >
 > <br>
->   <img src="../ReadME__img/defer-async.png"> 
+>   <img src="./ReadME__img/defer-async.png"> 
 > <br>
 >
 > #
+
+<br/>
+
+## What is Bankist project?
+
+Bankist is a website hosted on Netlify. While I was coding the Bankist project, I practice usage of Observer API,
+lazy loading while fetching images, DOMContentLoaded event and and above features. You can try by clicking <strong>[Bankist](https://bankist-gldn.netlify.app/)</strong>.
+
+#### Technologies Used:
+
+- HTML, CSS, JavaScript for front-end development.
+- Netlify for hosting the web application.
+
+ <br/> 
+   <img src="./ReadME__img/bankist--1.png" alt="Bankist">
+<br/>
+ <br/> 
+   <img src="./ReadME__img/bankist--2.png" alt="Bankist">
+<br/>
+ <br/> 
+   <img src="./ReadME__img/bankist--3.png" alt="Bankist">
+<br/>
+ <br/> 
+   <img src="./ReadME__img/bankist--4.png" alt="Bankist">
+<br/>
+ <br/> 
+   <img src="./ReadME__img/bankist--5.png" alt="Bankist">
+<br/>
+ <br/> 
+   <img src="./ReadME__img/bankist--6.png" alt="Bankist">
+<br/>
